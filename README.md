@@ -1,10 +1,10 @@
-# Hi there 👋 I'm SadatJubayer
+# Sadat Jubayer
 
-- 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning Mobile Development
+### Web Developer && UI/UX Designer && JavaScript Enthusiast
 
-###  My Current Stack
-
+Freelance developer with strong analytical skills and proficiency. Passionate about learning and exploring new technologies. Love to write clean and maintainable codes for web and mobile applications and specialized in UI/UX.
+```
+##  My Current Stack
 ```js
 {
   programmingLanguages: ['JavaScript', 'Dart', 'Python'],
