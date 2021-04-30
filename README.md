@@ -15,4 +15,4 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
 }
 ```
 
-### [More about me](https://www.smjubayer.me/about)
+### &rarr; [More about me](https://www.smjubayer.me/about)
